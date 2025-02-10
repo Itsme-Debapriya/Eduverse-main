@@ -3,7 +3,8 @@ An educational website for students and programmers 😊😊😊
 
 ![](PCView.jpg)
 
-
+Try This out:: 
+https://itsme-debapriya.github.io/Eduverse-main/
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
